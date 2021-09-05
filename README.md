@@ -12,4 +12,4 @@ PS: Wusstest du schon? TVNOW wird bald anders genannt.
   
  *_(TVNOW-fehler-intern)_
   
-  Wenn Sie als TVNOW-Nutzer weitere Anomalien oder Fehler finden, melden sie diese gerne in den [issues](https://github.com/spookyahell/TVNOW-fehler/issues), oder wenn Sie erfahrener TVNOW-Nutzer sind, machen Sie gerne einen Pull-Request.
+  Wenn Sie als TVNOW-Nutzer weitere Anomalien oder Fehler finden, melden sie diese gerne in den [issues](https://github.com/spookyahell/TVNOW-fehler/issues), oder wenn Sie erfahrener GitHub-Nutzer sind, machen Sie gerne einen Pull-Request.
