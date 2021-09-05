@@ -1,5 +1,7 @@
 # TVNOW-fehler
-Uncovered: Fehler beim TVNOW Streamingdienst
+Uncovered: Fehler beim [TVNOW-Streamingdienst](https://www.tvnow.de)
+
+PS: Wusstest du schon? TVNOW wird bald anders genannt.
 
 <table>
   <tr><th>Link(s)</th><th>Was schiefgelaufen ist...</th><th>Episodennummer bei TVNOW</th><th>Episodennummer, wenn es nach Recht und Ordnung ginge</th></tr>
